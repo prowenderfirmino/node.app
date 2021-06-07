@@ -1,0 +1,10 @@
+{
+        "name": "segunda-feira",
+        "version":"1.0.0.0",
+        "description":"aplicacao de exemplo",
+        "author":"Prof. Wender bonitao",
+        "main":"main.js",
+        "scripts":{
+                "start":"node main.js"
+        }
+}
